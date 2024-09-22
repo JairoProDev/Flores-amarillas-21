@@ -22,7 +22,7 @@ body {
 
 #lyrics {
   font-size: 28px;
-  font-family: "Franklin Gothic Medium", "Arial Narrow", Arial, sans-serif;
+  font-family: "lobster" "Franklin Gothic Medium", "Arial Narrow", Arial, sans-serif;
   color: white;
   position: absolute;
   z-index: 1;
